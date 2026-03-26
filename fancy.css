@@ -1,21 +1,19 @@
-/* Assignment Requirements */
 body {
-    background-color: #f0f4f8; /* Background color */
+    background-color: #f0f4f8;
     margin: 40px;
 }
 p {
-    font-family: sans-serif; /* Paragraph font */
+    font-family: sans-serif;
     font-size: 1.2em;
 }
 h1 {
-    font-size: 2.5em; /* Header text size */
+    font-size: 2.5em;
 }
 a {
-    color: #512888; /* Link color */
+    color: #512888;
     font-weight: bold;
 }
 
-/* Tic-Tac-Toe Styling */
 td {
     border: 5px solid black;
     width: 100px;
